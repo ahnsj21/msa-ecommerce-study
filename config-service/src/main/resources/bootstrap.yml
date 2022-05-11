@@ -1,0 +1,7 @@
+encrypt:
+#  대칭키
+  key: abcdefghijklmnopqrstuvwxyz0123456789
+#  key-store:
+#    location: file://${user.home}/IdeaProjects/msa-ecommerce/keystore/apiEncryptKey.jks
+#    password: test1234
+#    alias: apiEncryptKey
